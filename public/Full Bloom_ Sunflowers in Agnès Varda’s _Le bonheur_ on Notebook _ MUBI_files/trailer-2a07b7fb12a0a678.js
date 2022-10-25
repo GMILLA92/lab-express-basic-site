@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[42109],{24076:function(n,u,t){"use strict";t.r(u);var _=t(58182);u.default=_.default},72776:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/films/[filmSlug]/trailer",function(){return t(24076)}])}},function(n){n.O(0,[89831,60552,40611,80698,93343,90083,75144,45311,59219,7307,88075,60512,58952,15065,18895,51693,7446,80196,83709,69703,19695,61215,20881,57688,49774,92888,40179],(function(){return u=72776,n(n.s=u);var u}));var u=n.O();_N_E=u}]);
+//# sourceMappingURL=trailer-2a07b7fb12a0a678.js.map

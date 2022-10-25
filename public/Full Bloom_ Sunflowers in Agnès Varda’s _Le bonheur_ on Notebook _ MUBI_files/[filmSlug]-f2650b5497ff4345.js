@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[81592],{89457:function(n,_,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/films/[filmSlug]",function(){return u(58182)}])}},function(n){n.O(0,[89831,60552,40611,80698,93343,90083,75144,45311,59219,7307,88075,60512,58952,15065,18895,51693,7446,80196,83709,69703,19695,61215,20881,57688,49774,92888,40179],(function(){return _=89457,n(n.s=_);var _}));var _=n.O();_N_E=_}]);
+//# sourceMappingURL=[filmSlug]-f2650b5497ff4345.js.map
